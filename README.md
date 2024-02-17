@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @usernamejnj
-- 👀 I’m interested in ...hub
-- 🌱 I’m currently learning ...hub
-- 💞️ I’m looking to collaborate on ...hub
-- 📫 How to reach me ...hub
-- 😄 Pronouns:.. hub
-- ⚡ Fun fact: ...hub
+
